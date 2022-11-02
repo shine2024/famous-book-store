@@ -1,0 +1,89 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.nav{
+    display:flex;
+}
+nav img{
+    
+    height: 100px;
+    margin: 12px;
+}
+nav h1{
+
+    padding: 41px;
+    margin: 5px;
+    width: 688px;
+    text-align: center;
+    font-size: 37px;
+}
+ul{
+    display:flex;
+    list-style:none;
+    margin: 33px;
+}
+ul li a{
+    font-size: 25px;
+    padding: 20px;
+    margin: 12px;
+    text-decoration:overline;
+}
+.s1{
+    margin: 23px;
+    padding:34px;
+    border-radius: 12px;
+    background-color:rgb(56, 126, 126)
+}
+.s1 img{
+    float: left;
+    height: 80px;
+}
+.s img{
+    float: right;
+    height: 80px;
+}
+
+.s{
+    margin: 23px;
+    padding:34px;
+    border-radius: 12px;
+    clear:left
+    /* background-color:rgb(56, 126, 126) */
+}
+footer div{
+    text-align: right;
+    background-color: blue;
+    font-weight: 34px;
+    color: white;
+}
+.lo{
+    display: flex;
+    
+    border: 2px solid black;
+    width: 337px;
+    height: 143px;
+}
+ .password{
+    width: 100vw;
+    height: 77vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(160, 134, 184);
+}
+.volkano{
+   display: flex;
+}
+.table{
+    
+}
+.class{
+    width: 100vw;
+    height: 77vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(160, 134, 184);
+}
